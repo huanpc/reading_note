@@ -21,5 +21,8 @@
 ## Programming language
 
 1. Effective Java
-2. Learn Python the Hard Way
+2. Concurrent Programming in Java 
+3. Learn Python the Hard Way
+4. Dive into Python
+5. The Little Go Book
  
