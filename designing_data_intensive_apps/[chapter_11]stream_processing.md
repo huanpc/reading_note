@@ -19,4 +19,14 @@
 
 ### Partitioned Logs
 
-### Using logs for message storage
+#### Using logs for message storage
+
+#### Consumer offsets
+
+#### Disk space usage
+
+#### When consumers cannot keep up with producers
+
+#### Replaying old messages
+
+## Databases and Streams
