@@ -19,3 +19,7 @@
 ## Java HashMap Implementation
 
 - http://coding-geek.com/how-does-a-hashmap-work-in-java/
+
+## Oracle Java SE Specifications
+
+- https://docs.oracle.com/javase/specs/
