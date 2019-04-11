@@ -23,3 +23,6 @@
 ## Oracle Java SE Specifications
 
 - https://docs.oracle.com/javase/specs/
+
+## Direct memory access
+- https://highlyscalable.wordpress.com/2012/02/02/direct-memory-access-in-java/
